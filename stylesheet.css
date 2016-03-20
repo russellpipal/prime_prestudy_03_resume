@@ -1,0 +1,60 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: radial-gradient(#FFFFFF, #E0E0E0);
+	width: 700px;
+	margin: 20px auto 60px;
+}
+
+button {
+	display: block;
+	margin: auto;
+}
+
+#contact {
+	font-size: 16px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+#education h3 {
+	border-bottom: 1px solid #999;
+}
+
+.city {
+	float: right;
+	font-size: 14px;
+}
+
+.date {
+	float: right;
+	font-size: 14px;
+}
+
+#professional-experience h3 {
+	border-bottom: 1px solid #999;
+	margin-top: 40px;
+}
+
+#personal-statement {
+	font-style: italic;
+	font-size: 18px;
+}
+
+h1 {
+	padding: 5px 10px;
+	font-size: 64px;
+	text-shadow: 1px 1px 3px #000;
+	color: white;
+	display: inline-block;
+	border: 1px solid #999;
+	border-radius: 5px;
+}
+
+#container {
+	display: none;
+}
+
+#photo {
+	float: right;
+	box-shadow: 3px 3px 3px #000;
+}
